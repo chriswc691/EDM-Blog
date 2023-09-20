@@ -3,6 +3,6 @@ A website about Electronic Dance Music, provides EDM news, EDM and genres introd
 •	Designed Front-End web pages with HTML5, CSS3, JavaScript, jQuery and Bootstrap.
 •	Constructed Back-End server part (Register and Login functions) with PHP, RESTful APIs, and MySQL.
 
-![](https://i.imgur.com/pj3Knw7.png)
+![.](https://i.imgur.com/pj3Knw7.png)
 
-![]((https://i.imgur.com/KvKTY4N.png)
+![.]((https://i.imgur.com/KvKTY4N.png )
