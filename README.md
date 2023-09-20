@@ -5,4 +5,4 @@ A website about Electronic Dance Music, provides EDM news, EDM and genres introd
 
 ![01](https://i.imgur.com/pj3Knw7.png)
 
-![02]((https://i.imgur.com/KvKTY4N.png)
+![02](https://i.imgur.com/KvKTY4N.png)
